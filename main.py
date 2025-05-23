@@ -6,7 +6,7 @@
 
 def print_hi(name):
     # Use a breakpoint in the code line below to debug your script.
-    print(f'Goodbye,my friend Hele will be conflict{name}!')  # Press F9 to toggle the breakpoint.
+    print(f'Hello,my friend DIMA{name}!')  # Press F9 to toggle the breakpoint.
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
